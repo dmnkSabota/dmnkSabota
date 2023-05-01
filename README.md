@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dominik Sabota
-- 👀 I’m interested in Cybersecurity and ethical hacking.
+- 👀 I’m interested in Cybersecurity and Ethical Hacking.
 - 🌱 I’m currently learning Linux, Java, Python and Cybersecurity.
 - 📫 How to reach me dominik.sabota@gmail.com
 
